@@ -1,45 +1,151 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+[SafeGym](#ImgOrLink)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## Table of Contents
+1. [UX](#ux)
+    - [Goals](#goals)
+        - [Visitor Goals](#visitor-goals)
+        - [Member Goals](#member-goals)
+        - [Business Goals](#business-goals)
+    - [Design Choices](#design-choices)
+    - [Wireframes](#wireframes)
 
-## Gitpod Reminders
+2. [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Features Left to Implement](#features-left-to-implement)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+3. [Information Architecture](#information-architecture)
+    - [Database choice](#database-choice)
+    - [Data Models](#data-models)
+        - [User](#user)
+        - [Products App Model](#products-app-model)
+        - [Cart App Models](#cart-app-models)
 
-`python3 -m http.server`
+4. [Technologies Used](#technologies-used)
 
-A blue button should appear to click: *Make Public*,
+5. [Testing](#testing)
 
-Another blue button should appear to click: *Open Browser*.
+6. [Deployment](#deployment)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+7. [Credits](#credits)
+    - [Content](#content)
+    - [Images](#images)
+    - [Code](#code)
+    - [Acknowledgements](#acknowledgements)
 
-A blue button should appear to click: *Make Public*,
+8. [Contact](#contact)
 
-Another blue button should appear to click: *Open Browser*.
+----
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+# UX
 
-## Updates Since The Instructional Video
+## Goals
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Visitor Goals
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+As a visitor, I want to:
+- Be able to easily navigate and find vital content.
+- Easily understand the site and learn more about the organisation.
+- Be able to find the opening hours and how the gym works.
+- Be able to find prices and avaiable plans and benefits about the gym.
+- Be able to get in touch and solve whatever doubt may I have.
+- Be able to find SafeGym social media links.
+- Be able to subscript the Newsletter.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Member Goals 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+As a Gym Member I want to:
+- Discover more about my rights and benefits.
+- Be able to manage my workout bookings.
+- Know about the next gym events and Gym news.
+- Have access to my contract.
+- Manage details about my payments.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Business Goals
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The Goals of the SafeGym are:
+- Provide a advertisement place that helps the user to gaint trust that they are doing the right thing. 
+- Build brand recognition by including all the branding colours, fonts and logo associated with the SafeGym brand.
+- Connect to interested people, members and former gym members through the SafeGym social media channels.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Design Choices
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+**Fonts**
 
---------
+**Icons**
 
-Happy coding!
+**Colours**
+
+**Styling**
+
+**Backgrounds**
+
+**Card images**
+
+**Audio files**
+
+### Wireframes
+
+The wireframes were created using [Balsamiq](https://balsamiq.com/).
+
+- [Home](https://ibb.co/YZCbc9P)
+- [Plans](https://ibb.co/Gvmz7dK)
+- [Contact](https://ibb.co/y5tNBXL)
+
+## Features
+  - The website main feature it is the advertisement, brand hype,
+  share the social media channels and to provide vital information about the gym.
+
+### Features Left to Implement
+ - Member Sing Up page
+ - Member area
+    - Member sing in
+    - Account management
+    - Workout booking section
+    - Member special offers, sales and plans
+    - Manage payment details
+    - Payment history
+ - Newsletter
+ - Newsletter Subscritions
+ - Carrer section
+
+
+## Technologies Used
+
+- This project uses HTML, CSS and JavaScript programming languages.
+- [Gitpod](https://gitpod.io/)
+    - Developer used **Gitpod** as IDE to build the website.
+- [Bootstrap](https://www.bootstrapcdn.com/)
+    - The project uses **Bootstrap** to simplify the development process and make the website responsive easily.
+    - The project also uses Bootstrap to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
+- [Google Fonts](https://fonts.google.com/)
+    - The project uses **Google fonts** to style the website fonts.
+- [Imgbb](https://imgbb.com)
+    - All external images for this project are stored on **Imgbb.com**.
+- [GitHub](https://github.com/)
+    - This project uses **GitHub** to store and share all project code remotely. 
+
+## Testing 
+
+
+## Deployment
+
+### How to run this project locally
+
+## Credits
+
+### Content
+
+### Media
+
+#### Images
+
+#### Audio
+
+### Code
+
+### Acknowledgements
+
+#### Disclaimer
+The content of this website, including the images used, are for educational purposes only.
