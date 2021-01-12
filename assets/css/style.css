@@ -40,3 +40,10 @@ body {
     color: #d6d6d6;
 }
 
+#footer-details {
+    padding: 20px;
+    text-align: right;
+    font-size: 40px;
+    font-weight: 600;
+    color: #d6d6d6;
+}
