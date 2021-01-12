@@ -5,8 +5,18 @@
 
 body {
     background-color: #333533;
+    color: #d6d6d6;
 }
 /********************************* GENERAL *********************************/
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffd100;
+    margin-left: 2%;
+    margin-right: 5%;
+}
+
 .small-logo{
     font-size: 30px;
     font-weight: 800;
@@ -41,9 +51,29 @@ body {
 }
 
 #footer-details {
+    background-color: #202020;
     padding: 20px;
-    text-align: right;
     font-size: 40px;
     font-weight: 600;
+    text-align: right;
+}
+
+#footer-details .list-inline-item a{
+    text-align: right;
+}
+
+#footer-details a:link,
+#footer-details a:visited{
     color: #d6d6d6;
+    
+}
+
+/* mouse over link */
+#footer-details a:hover {
+    color: #ffee32;
+}
+
+/* selected link */
+#footer-details a:active {
+    color: blue;
 }
