@@ -15,26 +15,19 @@
     - [Existing Features](#existing-features)
     - [Features Left to Implement](#features-left-to-implement)
 
-3. [Information Architecture](#information-architecture)
-    - [Database choice](#database-choice)
-    - [Data Models](#data-models)
-        - [User](#user)
-        - [Products App Model](#products-app-model)
-        - [Cart App Models](#cart-app-models)
+3. [Technologies Used](#technologies-used)
 
-4. [Technologies Used](#technologies-used)
+4. [Testing](#testing)
 
-5. [Testing](#testing)
+5. [Deployment](#deployment)
 
-6. [Deployment](#deployment)
-
-7. [Credits](#credits)
+6. [Credits](#credits)
     - [Content](#content)
     - [Images](#images)
     - [Code](#code)
     - [Acknowledgements](#acknowledgements)
 
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ----
 
@@ -81,7 +74,7 @@ The Goals of the SafeGym are:
 
 **Backgrounds**
 
-**Card images**
+**Images**
 
 **Audio files**
 
@@ -128,7 +121,6 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/).
 
 ## Testing 
 
-
 ## Deployment
 
 ### How to run this project locally
@@ -139,7 +131,12 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/).
 
 ### Media
 
-#### Images
+### Images
+ - [Unsplash](https://unsplash.com)
+ - [Pixahive](https://pixahive.com/)
+ - [Gym](https://pixahive.com/photo/gym/)
+ - [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+ - [Matthew Sichkaruk](https://unsplash.com/@sichpicsss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 #### Audio
 
