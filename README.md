@@ -1,6 +1,4 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
-
-[SafeGym](#ImgOrLink)
+<img src="assets/images/logo.png" style="margin: 0;">
 
 ## Table of Contents
 1. [UX](#ux)
