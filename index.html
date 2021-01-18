@@ -28,10 +28,10 @@
                             <a class="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Plans</a>
+                            <a class="nav-link" href="/plans.html">Plans</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="/contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -46,7 +46,7 @@
 
     <section class="container-fluid">
 
-        <div class="container-sm carousel">
+        <div class="carousel">
             <div id="carouselCenter" class="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -64,7 +64,7 @@
             </div>
         </div>
 
-        <div class="container cards price">
+        <div class="container-fluid cards price">
             <div class="row justify-content-center">
                 <div class="col-sm-6 col-md-4">
                     <div class="card">
@@ -72,7 +72,9 @@
                             <h5 class="card-title">Monthly Plan</h5>
                             <p class="card-text">- No Contract
                             </p>
-                            <a href="#" class="btn btn-warning"> + More...</a>
+                            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                <a href="/plans.html" class="btn btn-warning"> + More...</a>
+                            </div>
                             <span class="sr-only">Monthly Plan</span>
                         </div>
                     </div>
@@ -82,7 +84,10 @@
                         <div class="card-body">
                             <h5 class="card-title">Annual Plan</h5>
                             <p class="card-text">- 12 Months Contract</p>
-                            <a href="#" class="btn btn-warning">+ More...</a>
+                            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                <a href="/plans.html" class="btn btn-warning ">+ More...</a>
+                            </div>
+
                             <span class="sr-only">Annual Plan</span>
                         </div>
                     </div>
@@ -91,9 +96,9 @@
         </div>
 
         <div class="container-fluid cards covid-measures">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 g-4">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-4 g-4">
                 <div class="col-sm-3">
-                    <div class="card text-center">
+                    <div class="card card-block text-center">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-head-side-mask" aria-hidden="true"></i></h5>
                             <p class="card-text">Face covering is mandatory</p>
@@ -114,7 +119,7 @@
                     <div class="card text-center">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-hands-wash" aria-hidden="true"></i></h5>
-                            <p class="card-text">Hand sanitiser avaiable</p>
+                            <p class="card-text">Hands disinfection on entrance</p>
                             <span class="sr-only">Hand sanitiser</span>
                         </div>
                     </div>
@@ -134,7 +139,6 @@
     </section>
 
     <footer class="container-fluid">
-
         <div id="footer-details" class="row">
             <div class="col-sm-3 about">
                 <p>Opening Hours </p>
@@ -177,7 +181,7 @@
         </div>
 
     </footer>
-    
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
         integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU"
         crossorigin="anonymous"></script>
