@@ -67,6 +67,11 @@ The Goals of the SafeGym are:
 **Icons**
 
 **Colours**
+ 
+ <img src="assets/images/colorpalette.jpg" style="margin: 0;">
+ 
+ - [Color Scheme](https://coolors.co/d6d6d6-ffee32-ffd100-202020-333533)
+ 
 
 **Styling**
 
@@ -124,14 +129,23 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/).
 ### How to run this project locally
 
 ## Credits
-
+- https://fontawesome.com/
+- https://fonts.google.com/
+- https://coolors.co/
+- https://stackoverflow.com/
+- https://www.w3schools.com/
+- https://ibb.co/
+- https://getbootstrap.com/
+- https://unsplash.com
+- https://codeinstitute.net/
+ - [Unsplash](https://unsplash.com)
+ - [Pixahive](https://pixahive.com/)
 ### Content
 
 ### Media
 
 ### Images
- - [Unsplash](https://unsplash.com)
- - [Pixahive](https://pixahive.com/)
+
  - [Gym](https://pixahive.com/photo/gym/)
  - [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
  - [Matthew Sichkaruk](https://unsplash.com/@sichpicsss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
