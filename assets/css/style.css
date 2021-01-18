@@ -6,6 +6,7 @@ body {
     background-color: #333533;
     color: #d6d6d6;
 }
+
 /********************************* HEADING *********************************/
 
 .navbar{
@@ -58,8 +59,7 @@ body {
     color: #d6d6d6;
 }
 
-
-/********************************* Section *********************************/
+/********************************* CAROUSEL *********************************/
 
 #carouselCenter {
   width: fit-content;
@@ -67,19 +67,90 @@ body {
   margin: auto;
 }
 
+/********************************* CARDS *********************************/
 .cards{
  font-family: 'Roboto', sans-serif;
  color: #202020;
  margin-top: 1rem;
  margin-bottom: 1rem;
 }
+
 .cards i{
     font-size: 3rem;
 }
 .cards .covid-measures{
+    position: relative;
     text-align: center;
 }
-/********************************* Footer *********************************/
+
+@media screen and (min-width: 36rem){
+    .card{
+        min-height: 12.5rem;
+    }
+    .price{
+        position: relative;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 51rem){
+    .card{
+        min-height: 10rem;
+    }
+    .price{
+        position: relative;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+.card-price {
+    font-size: 1.2rem;
+}
+
+
+.badge{
+ font-family: 'Roboto', sans-serif;
+ font-weight: 900;
+ color: #202020;
+}
+
+.risk{
+    text-decoration: line-through;
+}
+/********************************* CONTACT FORM *********************************/
+
+
+.center-form, 
+#comment, 
+#brn-submit{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#name{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase
+}
+
+#email{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-transform: lowercase;
+}
+
+.address p{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    font-weight: 600;
+    text-align: left;
+    font-size: 0.5;
+    
+}
+
+/********************************* FOOTER *********************************/
 
 #footer-details {
     font-family: 'Roboto', sans-serif;
@@ -88,6 +159,7 @@ body {
     font-size: 2.5rem;
     font-weight: 600;
     text-align: right;
+    
 }
 
 #footer-details .about p{
