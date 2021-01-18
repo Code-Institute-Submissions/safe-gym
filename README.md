@@ -79,8 +79,6 @@ The Goals of the SafeGym are:
 
 **Images**
 
-**Audio files**
-
 ### Wireframes
 
 The wireframes were created using [Balsamiq](https://balsamiq.com/).
@@ -140,9 +138,6 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/).
 - https://codeinstitute.net/
  - [Unsplash](https://unsplash.com)
  - [Pixahive](https://pixahive.com/)
-### Content
-
-### Media
 
 ### Images
 
@@ -150,11 +145,7 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/).
  - [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
  - [Matthew Sichkaruk](https://unsplash.com/@sichpicsss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
-#### Audio
-
 ### Code
-
-### Acknowledgements
 
 #### Disclaimer
 The content of this website, including the images used, are for educational purposes only.
