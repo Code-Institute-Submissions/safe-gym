@@ -59,6 +59,11 @@ body {
     color: #d6d6d6;
 }
 
+/********************************* GENERAL *********************************/
+p {
+    text-decoration-skip-ink: auto;
+}
+   
 /********************************* CAROUSEL *********************************/
 
 #carouselCenter {
@@ -109,18 +114,19 @@ body {
     font-size: 1.2rem;
 }
 
-
 .badge{
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     color: #202020;
+    position: relative;
+    text-align: center;
 }
 
 .risk{
     text-decoration: line-through;
 }
-/********************************* CONTACT FORM *********************************/
 
+/********************************* CONTACT FORM *********************************/
 
 .center-form, 
 #comment, 
@@ -147,7 +153,6 @@ body {
     font-weight: 600;
     text-align: left;
     font-size: 0.5;
-    
 }
 
 /********************************* FOOTER *********************************/
@@ -159,7 +164,6 @@ body {
     font-size: 2.5rem;
     font-weight: 600;
     text-align: right;
-    
 }
 
 #footer-details .about p{
@@ -185,4 +189,3 @@ body {
 #footer-details a:hover {
     color: #ffee32;
 }
-
