@@ -62,17 +62,17 @@ body {
 /********************************* CAROUSEL *********************************/
 
 #carouselCenter {
-  width: fit-content;
-  height: min-content;
-  margin: auto;
+    width: fit-content;
+    height: min-content;
+    margin: auto;
 }
 
 /********************************* CARDS *********************************/
 .cards{
- font-family: 'Roboto', sans-serif;
- color: #202020;
- margin-top: 1rem;
- margin-bottom: 1rem;
+    font-family: 'Roboto', sans-serif;
+    color: #202020;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .cards i{
@@ -111,9 +111,9 @@ body {
 
 
 .badge{
- font-family: 'Roboto', sans-serif;
- font-weight: 900;
- color: #202020;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #202020;
 }
 
 .risk{
