@@ -21,8 +21,9 @@ body {
     margin-right: 5%;
 }
 
-.container-fluid .central-logo{
+.container-fluid{
     font-family: 'Roboto', sans-serif;
+    position: relative;
 }
 
 .small-logo{
@@ -30,7 +31,7 @@ body {
     font-weight: 900;
     font-style: italic;
     color: #ffd100;
-    margin-left: 5%;
+   
 }
 
 .small-logo i{
@@ -66,10 +67,22 @@ p {
    
 /********************************* CAROUSEL *********************************/
 
-#carouselCenter {
-    width: fit-content;
-    height: min-content;
+#carousel-center{
+    max-width: 100%;
+    width: 100rem;
+    object-fit: scale-down;
     margin: auto;
+}
+
+#carousel-small{
+    max-width: 100%;
+    width: 100rem;
+    object-fit: fill;
+    margin: 3rem auto auto auto;
+}
+
+#carousel-small .carousel-item{
+    height: 10rem;
 }
 
 /********************************* CARDS *********************************/
@@ -112,6 +125,7 @@ p {
 
 .card-price {
     font-size: 1.2rem;
+    margin-bottom: 3rem;
 }
 
 .badge{
@@ -127,6 +141,11 @@ p {
 }
 
 /********************************* CONTACT FORM *********************************/
+
+.contact-form{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
 
 .center-form, 
 #comment, 
@@ -149,11 +168,12 @@ p {
 
 .address p{
     font-family: 'Roboto', sans-serif;
-    margin: auto;
+    margin: auto auto auto 1rem;
     font-weight: 600;
     text-align: left;
     font-size: 0.5;
 }
+
 
 /********************************* FOOTER *********************************/
 
@@ -163,7 +183,6 @@ p {
     padding: 1.25rem;
     font-size: 2.5rem;
     font-weight: 600;
-    text-align: right;
 }
 
 #footer-details .about p{
@@ -174,10 +193,6 @@ p {
 
 #footer-details .social{
     vertical-align: middle;
-}
-
-#footer-details .list-inline-item a{
-    text-align: right;
 }
 
 #footer-details a:link,
