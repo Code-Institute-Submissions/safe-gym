@@ -7,6 +7,40 @@ body {
     color: #d6d6d6;
 }
 
+/********************************* Font-sizes *********************************/
+
+.font-xxs{
+    font-size: 0.5rem;
+}
+
+.font-xs{
+    font-size: 1rem;
+}
+
+.font-s{
+    font-size: 1.2rem;
+}
+
+.font-m{
+    font-size: 2rem;
+}
+
+.font-l{
+    font-size: 2.5rem;
+}
+
+.font-xl{
+    font-size: 3rem;
+}
+
+.font-xxl{
+    font-size: 3.5rem;
+}
+
+.font-xxxl{
+    font-size: 4.5rem;
+}
+
 /********************************* HEADING *********************************/
 
 .navbar{
@@ -14,9 +48,8 @@ body {
 }
 
 .navbar-brand{
-    font-size: 2rem;
-    font-weight: 900;
     font-style: italic;
+    font-weight: 900;
     margin-left: 2%;
     margin-right: 5%;
 }
@@ -27,11 +60,9 @@ body {
 }
 
 .small-logo{
-    font-size: 2rem;
-    font-weight: 900;
-    font-style: italic;
     color: #ffd100;
-   
+    font-style: italic;
+    font-weight: 900;
 }
 
 .small-logo i{
@@ -40,62 +71,41 @@ body {
 }
 
 .central-logo{
-    text-align: center;
-    font-size: 2rem;
-    font-weight: 600;
     color: #d6d6d6;
+    font-weight: 600;
+    text-align: center;
 }
 
 .central-logo span{
-    font-size: 3.5rem;
-    font-weight: 800;
-    font-style: italic;
     color: #ffd100;
+    font-style: italic;
+    font-weight: 800;
 }
 
 .central-logo-icon{
-    text-align: center;
-    font-size: 4.5rem;
-    font-weight: 600;
     color: #d6d6d6;
-}
-
-/********************************* GENERAL *********************************/
-p {
-    text-decoration-skip-ink: auto;
+    font-weight: 600;
+    text-align: center;
 }
    
 /********************************* CAROUSEL *********************************/
 
-#carousel-center{
-    max-width: 100%;
-    width: 100rem;
-    object-fit: scale-down;
+.carousel{
     margin: auto;
-}
-
-#carousel-small{
     max-width: 100%;
+    object-fit: scale-down;
     width: 100rem;
-    object-fit: fill;
-    margin: 3rem auto auto auto;
-}
-
-#carousel-small .carousel-item{
-    height: 10rem;
 }
 
 /********************************* CARDS *********************************/
+
 .cards{
-    font-family: 'Roboto', sans-serif;
     color: #202020;
-    margin-top: 1rem;
+    font-family: 'Roboto', sans-serif;
     margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
-.cards i{
-    font-size: 3rem;
-}
 .cards .covid-measures{
     position: relative;
     text-align: center;
@@ -106,9 +116,9 @@ p {
         min-height: 12.5rem;
     }
     .price{
-        position: relative;
-        margin-top: 2rem;
         margin-bottom: 2rem;
+        margin-top: 2rem;
+        position: relative;
     }
 }
 
@@ -116,22 +126,21 @@ p {
     .card{
         min-height: 10rem;
     }
-    .price{
-        position: relative;
-        margin-top: 2rem;
+    .price{        
         margin-bottom: 2rem;
+        margin-top: 2rem;
+        position: relative;
     }
 }
 
 .card-price {
-    font-size: 1.2rem;
     margin-bottom: 3rem;
 }
 
 .badge{
+    color: #202020;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
-    color: #202020;
     position: relative;
     text-align: center;
 }
@@ -143,24 +152,24 @@ p {
 /********************************* CONTACT FORM *********************************/
 
 .contact-form{
-    margin-top: 3rem;
     margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 .center-form, 
-#comment, 
-#brn-submit{
-    margin-top: 1rem;
+.comment, 
+.btn-submit{
     margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
-#name{
-    margin-top: 1rem;
+.name{
     margin-bottom: 1rem;
+    margin-top: 1rem;
     text-transform: uppercase
 }
 
-#email{
+.email{
     margin-top: 1rem;
     margin-bottom: 1rem;
     text-transform: lowercase;
@@ -168,39 +177,35 @@ p {
 
 .address p{
     font-family: 'Roboto', sans-serif;
-    margin: auto auto auto 1rem;
     font-weight: 600;
-    text-align: left;
-    font-size: 0.5;
+    margin: auto auto auto 1rem;
+    text-align: left;   
 }
-
 
 /********************************* FOOTER *********************************/
 
-#footer-details {
-    font-family: 'Roboto', sans-serif;
+.footer-details {
     background-color: #202020;
-    padding: 1.25rem;
-    font-size: 2.5rem;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
+    padding: 1.25rem; 
 }
 
-#footer-details .about p{
-    font-size: 1rem;
-    text-align: center;
+.footer-details .about p{
     margin: auto;
+    text-align: center;
 }
 
-#footer-details .social{
+.footer-details .social{
     vertical-align: middle;
 }
 
-#footer-details a:link,
-#footer-details a:visited,
-#footer-details a:active{
+.footer-details a:link,
+.footer-details a:visited,
+.footer-details a:active{
     color: #d6d6d6;
 }
 
-#footer-details a:hover {
+.footer-details a:hover {
     color: #ffee32;
 }
