@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600&display=swap');
 
 /********************************* COLORS *********************************/
@@ -93,7 +100,8 @@ body {
 .carousel{
     margin: auto;
     max-width: 100%;
-    object-fit: scale-down;
+    -o-object-fit: scale-down;
+       object-fit: scale-down;
     width: 100rem;
 }
 
@@ -166,12 +174,12 @@ body {
 .name{
     margin-bottom: 1rem;
     margin-top: 1rem;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .email{
-    margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-top: 1rem;
     text-transform: lowercase;
 }
 
@@ -191,7 +199,7 @@ body {
     padding: 1.25rem; 
 }
 
-.footer-details .about p{
+.footer-details .opening-hours p{
     margin: auto;
     text-align: center;
 }
