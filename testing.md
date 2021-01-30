@@ -40,21 +40,33 @@
                     current page, on this case the "Home".
                     - If Clicked at Plans is redirected to the plans page.
                     - If Clicked at Contact is redirected to the contact page.
+                    
+<img src="assets/images/mob-home-navbar.jpg" style="margin: auto;">
+ 
                 - Section
                     - Scrolling down the page there is the main logo of the SAFEGYM,
                     follow by the carousel, with some pictures to show a little bit
                     from the gym.
+
+<img src="assets/images/central-logo.jpg" style="margin: auto;">
+<img src="assets/images/carousel.jpg" style="margin: auto;">
+
                     - Scrolling down there is a preview from the gym plans 
                     monthly and annual, followed by buttons to show more about the plans.
                     - Scrolling down there are the cards about the safe measures to prevent 
                     from COVID-19, as such the card from face covering, thermal scanners,
                     hands desinfection, and social distancing measures.
+
+<img src="assets/images/mob-home-price-cards.jpg" style="margin: auto;">
+
                 - Footer
                     - Scrolling down start the footer with the opening hours, followed
                     by a logo with the hash (#SAFEGYM) to indicate the next section of
                     social medias, with the link to Instagram, Facebook, Twitter and 
                     Youtube, all the links are opening in new tabs, don't losing the
                     current page.
+
+<img src="assets/images/mob-footer.jpg" style="margin: auto;">
 
             When Clicked on the Burguer Button and selected the Plans page, or clicked
             at the button "+More..." On the plans cards at the home page, 
@@ -68,22 +80,40 @@
                     current page, on this case the "Plans".
                     - If Clicked at Home is redirected to the home page.
                     - If Clicked at Contact is redirected to the contact page.
+
+<img src="assets/images/mob-plans-navbar.jpg" style="margin: auto;">
+
                 - Section
                     - Scrolling down the page there is the main logo of the SAFEGYM.
+
+<img src="assets/images/central-logo.jpg" style="margin: auto;">                    
+
                     - Scrolling down there is the card of the monthly plan,
                     with all descriptions of the plan and the price.
+
+<img src="assets/images/mob-plans-price-month.jpg" style="margin: auto;"> 
+
                     - Scrolling down there is the card of the annual plan,
                     with a badge incating the best option, all descriptions of the plan 
                     and the price.
+
+<img src="assets/images/mob-plans-price-annual.jpg" style="margin: auto;">
+
                     - Scrolling down there are the cards about the safe measures to prevent 
                     from COVID-19, as such the card from face covering, thermal scanners,
                     hands desinfection, and social distancing measures.
+
+<img src="assets/images/mob-safe-measures-cards.jpg" style="margin: auto;">
+
                 - Footer
                     - Scrolling down start the footer with the opening hours, followed
                     by a logo with the hash (#SAFEGYM) to indicate the next section of
                     social medias, with the link to Instagram, Facebook, Twitter and 
                     Youtube, all the links are opening in new tabs, don't losing the
                     current page.
+
+<img src="assets/images/mob-footer.jpg" style="margin: auto;">
+
 
             When Clicked on the Burguer Button and selected the Contact page, 
             is redirected to Contact page:
@@ -95,25 +125,42 @@
                     this pages are Home, Plans and Contact with a highlight on the 
                     current page, on this case the "Contact".
                     - If Clicked at Home is redirected to the home page.
-                    - If Clicked at Plans is redirected to the plan page.                        
+                    - If Clicked at Plans is redirected to the plan page.    
+
+<img src="assets/images/mob-contact-navbar.jpg" style="margin: auto;">                    
+
                 - Section
                     - Scrolling down the page there is the main logo of the SAFEGYM.
+
+<img src="assets/images/central-logo.jpg" style="margin: auto;">                    
+
                     - Scrolling down there is a form to contact the gym, with the
                     following fields, Name, Email and Comments, and a Submit Button.
                     All fields are required in any case of empty, and the email of empty or
                     not have at least some conten and the "@" symbol on the email.
+                    
+<img src="assets/images/mob-contact-form.jpg" style="margin: auto;">                                        
+                    
                     - Scrolling down there is the address and the phone to contact the gym,
                     on case of clicking on the phone the page redirect to the dialler of the
                     mobile device.
+
+<img src="assets/images/mob-contact-address.jpg" style="margin: auto;">                    
+
                     - Scrolling down there are the cards about the safe measures to prevent 
                     from COVID-19, as such the card from face covering, thermal scanners,
                     hands desinfection, and social distancing measures.
+
+<img src="assets/images/mob-safe-measures-cards.jpg" style="margin: auto;">                    
+
                 - Footer
                     - Scrolling down start the footer with the opening hours, followed
                     by a logo with the hash (#SAFEGYM) to indicate the next section of
                     social medias, with the link to Instagram, Facebook, Twitter and 
                     Youtube, all the links are opening in new tabs, don't losing the
                     current page.
+
+<img src="assets/images/mob-footer.jpg" style="margin: auto;">                    
                         
         - On PC
             When accessing the home page:
