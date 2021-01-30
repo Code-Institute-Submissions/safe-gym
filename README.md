@@ -98,6 +98,14 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
  - [Plans](https://ibb.co/Gvmz7dK)
  - [Contact](https://ibb.co/y5tNBXL)
 
+ Final Result, at the end and on the development phase some changes were made to
+ all pages, as the sign in button were left for future feature, the way as the pages were
+ distribuid on the navbar changed too, all to the left, and the creation of the
+ safe measures cards.
+ At the Contact page the size of form and the distribuition of the components, as the
+ creation of the address information that was missing at the wireframes.
+
+
 ## Features
   - The website main feature it is the advertisement, brand hype,
   share the social media channels and to provide vital information about the gym.
@@ -109,11 +117,11 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
 
  - Carrer section
 
- - Member Sing Up page
+ - Member Sign Up page
 
  - Member area
 
-    - Member sing in
+    - Member sign in
     - Account management
     - Workout booking section
     - Member special offers, sales and plans
