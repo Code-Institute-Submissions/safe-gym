@@ -149,7 +149,7 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
     - The **Auto Prefixer** was used to parse the CSS and adds vendor prefixes.
 
 ## Testing
-  - All informations about test are located at [Testing.md](testing.md) file.
+  - All informations about test are located at [TESTING.md](testing.md) file.
 
 ### Validations     
   - When performing the site validation as much from HTML as in CSS I came across: 
