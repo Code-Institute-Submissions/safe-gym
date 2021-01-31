@@ -155,6 +155,8 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
     - The **Pixels Converter** was used to change pixels to rem.
  - [Auto Prefixer](https://autoprefixer.github.io)
     - The **Auto Prefixer** was used to parse the CSS and adds vendor prefixes.
+ - [TinyPng](https://tinypng.com/)
+    - The **TinyPng** was used to compress all images used
 
 ## Testing
   - All informations about test are located at [testing.md](testing.md) file.
