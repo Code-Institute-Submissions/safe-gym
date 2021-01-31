@@ -159,33 +159,6 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
 ## Testing
   - All informations about test are located at [testing.md](testing.md) file.
 
-### Validations     
-  - When performing the site validation as much from HTML as in CSS I came across: 
-
-        HTML (First and Final Check)
-        4 Warnings from:
-          - Empty heading. 
-                From line 108, column 29; to line 108, column 51.
-                From line 117, column 29; to line 117, column 51.
-                From line 126, column 29; to line 126, column 51.
-                From line 135, column 29; to line 135, column 51.
-
-                <h5 class="card-title"><i cla
-         
-        CSS
-        First Check
-            Some Errors as:
-            - Alphabetical order from CSS properties.
-            - Don't use ID in selectors.
-            - Too many font-size declarations, abstraction needed.
-        
-        Final Check
-        18 errors from:
-            - URI https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
-        424 Warnings from:
-            - URI https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
-            - URI https://use.fontawesome.com/releases/v5.15.1/css/all.css
-
 ## Deployment
  - The project was developed using [Gitpod](https://gitpod.io/) commited to **git**,
   pushed to [GitHub](https://github.com/) and deployed at [GitHub Pages](https://pages.github.com/).

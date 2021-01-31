@@ -322,3 +322,30 @@
     - Be able to find SafeGym social media links.
         - On a Mobile Phone or on PC at all pages the visitor can find at the
         footer the links to all social medias
+
+### Validations     
+  - When performing the site validation as much from HTML as in CSS I came across: 
+
+        HTML
+        4 Warnings from:
+          - Empty heading. 
+                From line 108, column 29; to line 108, column 51.
+                From line 117, column 29; to line 117, column 51.
+                From line 126, column 29; to line 126, column 51.
+                From line 135, column 29; to line 135, column 51.
+
+                <h5 class="card-title"><i cla
+         
+        CSS
+        First Check (Before Adjustments)
+            Some Errors as:
+            - Alphabetical order from CSS properties.
+            - Don't use ID in selectors.
+            - Too many font-size declarations, abstraction needed.
+        
+        Final Check (After Adjustments)
+        18 errors from:
+            - URI https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
+        424 Warnings from:
+            - URI https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
+            - URI https://use.fontawesome.com/releases/v5.15.1/css/all.css
