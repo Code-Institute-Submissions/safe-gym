@@ -20,7 +20,7 @@
 3. [Technologies Used](#technologies-used)
 
 4. [Testing](#testing)
-    - [Validations](#validations)
+
 5. [Deployment](#deployment)
     - [How to run this project locally](#how-to-run-this-project-locally)
 
@@ -29,8 +29,6 @@
     - [Images](#images)
     - [Code](#code)
     - [Acknowledgements](#acknowledgements)
-
-7. [Contact](#contact)
 
 ----
 
@@ -174,7 +172,7 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
  - To clone this Repository follow this steps:
     - [Clone Repository](https://help.github.com/en/articles/cloning-a-repository)
 
-## Credits
+### Credits
  - [CodeInstitue](https://codeinstitute.net/)
  - [Balsamiq](https://balsamiq.com/)
  - [Fontawesome](https://fontawesome.com/)
@@ -190,13 +188,14 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/) and hosted a
  - [Pixahive](https://pixahive.com/)
  - [Markuptag](https://www.markuptag.com/bootstrap-5-badges-over-button/)
  - [Auto Prefixer](https://autoprefixer.github.io)
+ - [TinyPng](https://tinypng.com/)
 
 ### Code
  - The code were developed on [Gitpod](https://gitpod.io/) hosted at [GitHub](https://github.com/) and deployed at [GitHub Pages](https://pages.github.com/), written  based at previous classes at [CodeInstitue](https://codeinstitute.net/),
  with the assistance of [w3Schools](https://www.w3schools.com/), [StackOverflow](https://stackoverflow.com/),
  [Bootstrap](https://getbootstrap.com/) and [Markuptag](https://www.markuptag.com/), with documentation and samples to understand some resourses and to help on bug fixes.
 
-### Acknowledgements
+## Acknowledgements
  Special thanks to: 
  - My Mentor [Spencer Barriball](https://github.com/5pence) from Code Institute for his time, support, assistance and expertise in explaining and guide me through 
  the milestone project.
